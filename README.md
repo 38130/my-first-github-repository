@@ -5,4 +5,5 @@ This line was modified manually during conflict resolution
 
 New line was added locally
 
-My changes
+My changes1
+My changes2
