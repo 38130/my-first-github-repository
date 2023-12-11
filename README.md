@@ -7,3 +7,4 @@ New line was added locally
 
 My changes1
 My changes2
+My changes3
